@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1,
+nav,
+figure {
+  text-align: center;
+}
+
+div {
+  text-align: horizontal;
+}
+
+p {
+  font-size: 16px;
+  text-align: center;
+}
